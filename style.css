@@ -20,8 +20,8 @@ h1 {
 h2 {
     font-size: 18px;
     font-weight: 500;
-    font-style: italic;
     margin-top: 0;
+    font-family: font-family: 'Raleway', sans-serif;
 }
 
 .container p:last-of-type {
